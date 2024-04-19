@@ -1,1 +1,2 @@
-# SEO-Project-Media-Project-1
+# Version 1
+-Added media accessibility for smartphone users
